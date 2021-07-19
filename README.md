@@ -2,7 +2,7 @@
 - 👀 I’m interested in "Frontend web development"(Html,css,js) 
 - 🌱 I’m currently learning Html,Css,Js and JQuery 
 - 💞️ I’m looking to collaborate on making websites
-- 📫 you can reach me on Email:aryan.ayushman.sahoo@gmail.com,aryan.ayushman.sahoo@outlook.com Phone Number:740600421,9620137450 
+- 📫 you can reach me on Email:aryan.ayushman.sahoo@gmail.com,aryan.ayushman.sahoo@outlook.com  
 
 <!---
 AryanCoder2010/AryanCoder2010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
